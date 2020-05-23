@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="84434" started-at="2020-05-22T14:54:08Z" finished-at="2020-05-22T14:55:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="84434" started-at="2020-05-22T14:54:08Z" finished-at="2020-05-22T14:55:33Z">
+      <class name="com.qa.testcases.TestAssignmemnt">
+        <test-method status="PASS" signature="setBrowser()[pri:0, instance:com.qa.testcases.TestAssignmemnt@53b32d7]" name="setBrowser" is-config="true" duration-ms="25641" started-at="2020-05-22T14:54:08Z" finished-at="2020-05-22T14:54:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setBrowser -->
+        <test-method status="PASS" signature="RegisterTest()[pri:1, instance:com.qa.testcases.TestAssignmemnt@53b32d7]" name="RegisterTest" duration-ms="17543" started-at="2020-05-22T14:54:34Z" finished-at="2020-05-22T14:54:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegisterTest -->
+        <test-method status="PASS" signature="LoginPageTest()[pri:2, instance:com.qa.testcases.TestAssignmemnt@53b32d7]" name="LoginPageTest" duration-ms="5190" started-at="2020-05-22T14:54:52Z" finished-at="2020-05-22T14:54:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginPageTest -->
+        <test-method status="PASS" signature="shoppingTest()[pri:3, instance:com.qa.testcases.TestAssignmemnt@53b32d7]" name="shoppingTest" duration-ms="25101" started-at="2020-05-22T14:54:57Z" finished-at="2020-05-22T14:55:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shoppingTest -->
+        <test-method status="PASS" signature="PaymentTest()[pri:4, instance:com.qa.testcases.TestAssignmemnt@53b32d7]" name="PaymentTest" duration-ms="8351" started-at="2020-05-22T14:55:22Z" finished-at="2020-05-22T14:55:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PaymentTest -->
+        <test-method status="PASS" signature="OrderHistoryTest()[pri:5, instance:com.qa.testcases.TestAssignmemnt@53b32d7]" name="OrderHistoryTest" duration-ms="2539" started-at="2020-05-22T14:55:30Z" finished-at="2020-05-22T14:55:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OrderHistoryTest -->
+      </class> <!-- com.qa.testcases.TestAssignmemnt -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
